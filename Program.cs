@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 public class Program
 {
-    // Declare the accounts list outside of the Main method
+    //создаём массив
     private static List<BankAccount> accounts = new List<BankAccount>();
 
     public static void Main(string[] args)
